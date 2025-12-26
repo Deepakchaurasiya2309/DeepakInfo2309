@@ -2,7 +2,7 @@
 ## Hi 👋 I'm Deepak Chaurasiya
  I'm a Software Developer from the Institute of Engineering & Management.
 💻 Solid in **Java** | Intermediate in ** Python & C **. 
-🧠 DSA enthusiast (100+ problems solved so far)  
+🧠 DSA enthusiast (100+ problems solved on LeetCode so far)  
 🤖 Interested in Deep Learning projects  
 🌐 Passionate about Web Development  
 🚀 Always learning and building real-world solutions
